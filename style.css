@@ -1,4 +1,6 @@
-.racer_table td {
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.racer_table td { 
   height: 40px;
   width: 40px;
   background-color: #F8D164;
@@ -72,6 +74,22 @@
     top: -50px;
     left: 0px;
   }
+
+  #buttom {
+    padding: 12px 12px;
+    background-color: #14b1ab;
+    border-radius: 10px;
+    color: white;
+    margin:570px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    transition: opacity 0.3s ease;
+  }
+
+  #buttom:hover {
+    color:white;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+  }
+
 
   @keyframes backdiv {
     50% {
