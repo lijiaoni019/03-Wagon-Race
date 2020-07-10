@@ -88,6 +88,15 @@
     color:white;
     box-shadow: 0 0 8px rgba(0,0,0,0.5);
   }
+
+  #line {
+    width: 2px;
+    height:160px;
+    background-color:#14b1ab;
+    position:absolute;
+    margin:0 1200px;
+    top:190px;
+  }
   
 
   @keyframes backdiv {
