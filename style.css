@@ -80,7 +80,6 @@
     background-color: #14b1ab;
     border-radius: 10px;
     color: white;
-    margin:570px;
     box-shadow: 0 0 8px rgba(0,0,0,0.3);
     transition: opacity 0.3s ease;
   }
@@ -89,7 +88,7 @@
     color:white;
     box-shadow: 0 0 8px rgba(0,0,0,0.5);
   }
-
+  
 
   @keyframes backdiv {
     50% {
